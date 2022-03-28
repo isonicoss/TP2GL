@@ -1,0 +1,1 @@
+le "commit" se fait dans le fichier ou on se trouve ce qui fait que lorsqu'on fait un commit dans mon_fichier, ceci n'a pas d'impact sur master.
